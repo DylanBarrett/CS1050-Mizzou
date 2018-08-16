@@ -1,0 +1,25 @@
+ACCOUNTS 	 AMOUNTS 	 DESIGNATION
+  7007   	 2890.58   	      J 
+  5005   	 3000.00   	      J 
+  3003   	 4000.00   	      S 
+  4004   	 5000.00   	      S 
+  6116   	 4599.91   	      S 
+  2002   	 2000.43   	      M 
+  1001   	 1591.63   	      M 
+  2112   	 3112.67   	      M 
+
+
+*************** BONUS ***************
+
+ACCOUNTS 	 AMOUNTS 	 DESIGNATIONS
+  1001   	 1591.63   	      M
+  2002   	 2000.43   	      M
+  7007   	 2890.58   	      J
+  5005   	 3000.00   	      J
+  2112   	 3112.67   	      M
+  3003   	 4000.00   	      S
+  6116   	 4599.91   	      S
+  4004   	 5000.00   	      S
+
+The smallest amount greater than or equal to average is 4000.00 by the TA 3003 with the designation S
+The greatest amount lesser than or equal to average is 3112.67 by the TA 2112 with the designation M
